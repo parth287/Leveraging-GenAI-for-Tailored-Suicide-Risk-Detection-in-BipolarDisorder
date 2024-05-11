@@ -41,11 +41,3 @@ This repository contains all the resources and scripts used in our project focus
 
 6. **Convert Manual Annotations**:
    - Use `convertingMannual.py` to transform manual annotations to a format similar to automated annotations.
-
-## Contact
-
-For any questions or further information, please contact [Your Name] at [Your Email].
-
----
-
-Feel free to modify any section as needed!
